@@ -1,15 +1,15 @@
 # Storemansys
-Hello guys. Astha, Ayush, Mohit and Manya hope you find it. Let's do this.  
-List ofn functions is as foloows-
-main()
-addProduct()
-deleteProduct()
-stockCheck()
-billing()
-barcodeScanner()
-discountUpdate()
-endOfDayStats
-employeeRecords()
+Hello guys. Astha, Ayush, Mohit and Manya hope you find it. Let's do this.    
+List of functions is as foloows- 
+main() 
+addProduct() 
+deleteProduct() 
+stockCheck() 
+billing() 
+barcodeScanner() 
+discountUpdate() 
+endOfDayStats 
+employeeRecords() 
 
 The product will be an object having following data-
 1)Name
